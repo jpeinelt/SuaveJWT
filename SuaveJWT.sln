@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SuaveJwt", "SuaveJwt\SuaveJwt.fsproj", "{56F83FA7-49C9-4F33-B64E-2D0361D0E70A}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SuaveJwt.AuthServerHost", "SuaveJwt.AuthServerHost\SuaveJwt.AuthServerHost.fsproj", "{7B2A258A-CA4F-4FA9-98C2-C134BD6FE8CE}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Audience1", "Audience1\Audience1.fsproj", "{1909EFFE-28B1-4EA4-B765-B90AFC6E7AE2}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Audience2", "Audience2\Audience2.fsproj", "{34EF6838-B70B-4218-B097-ACE55A4ADA49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56F83FA7-49C9-4F33-B64E-2D0361D0E70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F83FA7-49C9-4F33-B64E-2D0361D0E70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F83FA7-49C9-4F33-B64E-2D0361D0E70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F83FA7-49C9-4F33-B64E-2D0361D0E70A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B2A258A-CA4F-4FA9-98C2-C134BD6FE8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2A258A-CA4F-4FA9-98C2-C134BD6FE8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2A258A-CA4F-4FA9-98C2-C134BD6FE8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2A258A-CA4F-4FA9-98C2-C134BD6FE8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1909EFFE-28B1-4EA4-B765-B90AFC6E7AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1909EFFE-28B1-4EA4-B765-B90AFC6E7AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1909EFFE-28B1-4EA4-B765-B90AFC6E7AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1909EFFE-28B1-4EA4-B765-B90AFC6E7AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34EF6838-B70B-4218-B097-ACE55A4ADA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EF6838-B70B-4218-B097-ACE55A4ADA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EF6838-B70B-4218-B097-ACE55A4ADA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EF6838-B70B-4218-B097-ACE55A4ADA49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
